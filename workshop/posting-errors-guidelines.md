@@ -3,13 +3,14 @@ title: Guidelines for posting an error to Slack
 nav_title: Posting an Error
 ---
 <img style = "padding: 0px 15px 0px 0px; float: left;" src = "screenshots/slack-cancer-data-science-logo.png" width = "75">
-We use the **Cancer Data Science Slack** workspace, administered by the Data Lab team, for communication.
+We use the **Cancer Data Science Slack** team administered by the CCDL for communication.
 If you haven't joined Cancer Data Science Slack yet, you will need to follow the [setup procedures described here](../virtual-setup/slack-procedures.md).
+
 
 During and after the workshop, we encourage you to post your code error question to your Slack training channel.
 But asking questions about code in such a way that others can readily help you can be tricky and is a skill in itself!
 
-Here we've laid out guidelines for posting your question so that your peers and the Data Lab team will readily be able to help you find a solution.
+Here we've laid out guidelines for posting your question so that your peers and the CCDL team will readily be able to help you find a solution.
 Following these guidelines will take more time but it will increase your chances of getting speedier responses that more adequately help you resolve your error!
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -89,7 +90,7 @@ For our example error, here's how each of the "four points" (and the optional on
 
 - In our workshop, notebook references tend to make sense to provide, however, more generally this should be any context around __where__ you've encountered this error.
 
-- If you are *not* working from any Data Lab materials, it is *even more important* to provide context around what the notebook you are creating is supposed to be doing.
+- If you are *not* working from any CCDL materials, it is *even more important* to provide context around what the notebook you are creating is supposed to be doing.
 
 - Note that line numbers change as you've added code, so line numbers as a reference aren't as helpful.
 
