@@ -2,12 +2,6 @@
 title: Mac Setup Instructions for Slack
 ---
 
-## Table of Contents
-
-  - [Slack](#slack)
-    - [New Slack Installation](#new-slack-installation)
-    - [Logging in to the Cancer Data Science workspace](#logging-in-to-the-cancer-data-science-workspace)
-
 ## Slack
 
 ### New Slack Installation

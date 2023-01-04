@@ -1,14 +1,6 @@
 ---
-title: Windows set up instructions for virtual workshops
+title: Windows Setup Instructions for Slack
 ---
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-  - [Slack](#slack)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Slack
 

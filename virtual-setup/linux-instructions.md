@@ -1,16 +1,10 @@
 ---
-title: Linux Set Up Instructions for Virtual Workshops
+title: Linux Setup Instructions for Slack
 ---
 
 *Note: These instructions were tested on Ubuntu 18.04 LTS.
 Our instructions generally follow the software provider's instructions, which we link below.
 For other Linux distros, please see the instructions from the software providers.*
-
-## Table of Contents
-
-  - [Slack](#slack)
-    - [New Slack Installation](#new-slack-installation)
-    - [Logging in to the Cancer Data Science workspace](#logging-in-to-the-cancer-data-science-workspace)
 
 ## Slack
 
