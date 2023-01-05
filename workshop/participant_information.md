@@ -10,20 +10,13 @@ Find helpful information related to health and safety, the workshop location, an
 
 ### Table of Contents
 
-- [Health and Safety](#health-and-safety)
 - [Workshop Location](#workshop-location)
   - [Transportation](#transportation)
   - [Nearby Lodging](#nearby-lodging)
 - [Travel Reimbursement](#travel-reimbursement)
+- [Health and Safety](#health-and-safety)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Health and Safety
- 
-If you are feeling sick, please do not attend the workshop. 
-We will not withhold your deposit if you cannot attend because you are sick.
-Face masks are not required.
-We encourage workshop participants to do what they feel most comfortable with.
 
 ## Workshop Location
 
@@ -73,3 +66,12 @@ To qualify for reimbursement:
 * You will need to have included this request in your application.
 * You will be required to provide documentation of travel expenses, such as transportation and lodging receipts, and to fill out a reimbursement form after the workshop ends.
 * You must attend the entirety of the workshop.
+
+## Health and Safety
+
+Alex's Lemonade Stand Foundation's Childhood Cancer Data Lab will comply with any governmental requirements related to health and safety.
+We encourage workshop participants to adhere to US governmental guidance.
+You may wish to review the [CDC COVID-19 by County guidance](https://www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html) and the [Montgomery County, Pennsylvania COVID-19 community level](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Pennsylvania&data-type=CommunityLevels&list_select_county=42091&null=CommunityLevels) when planning for workshop attendance.
+
+If you are feeling sick, please do not attend the workshop. 
+We will not withhold your deposit if you cannot attend because you are sick.
