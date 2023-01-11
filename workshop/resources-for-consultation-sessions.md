@@ -107,12 +107,12 @@ You can read more about how we process data in ScPCA and how you can use ScPCA d
 
 #### The `scRNAseq` Bioconductor package
 
-The [`scRNAseq`](https://bioconductor.org/packages/3.16/data/experiment/html/scRNAseq.html) Bioconductor package contains [dozens of scRNA-Seq datasets](https://bioconductor.org/packages/3.16/data/experiment/vignettes/scRNAseq/inst/doc/scRNAseq.html) formatted as `SingleCellExperiment` objects.
+The [`scRNAseq`](https://bioconductor.org/packages/3.16/data/experiment/html/scRNAseq.html) Bioconductor package contains [dozens of scRNA-seq datasets](https://bioconductor.org/packages/3.16/data/experiment/vignettes/scRNAseq/inst/doc/scRNAseq.html) formatted as `SingleCellExperiment` objects.
 
 
 #### _Tabula Muris_ data
 
-This is a more extensive set of the [_Tabula Muris_](https://tabula-muris.ds.czbiohub.org) data (mouse tissue) that are used in  the "Introduction to bulk RNA-seq" and "Introduction to scRNA-seq" trianings.
+This is a more extensive set of the [_Tabula Muris_](https://tabula-muris.ds.czbiohub.org) data (mouse tissue) that are used in our "Introduction to scRNA-seq" training.
 These samples, already processed by `salmon alevin`, can be found in the `~/shared-data/training-data/tabula-muris/alevin` directory.
 Metadata, including tissue of origin for each sample (since the sample names themselves are not informative), can be found in `~/training-modules/scRNA-seq/data/tabula-muris/TM_droplet_metadata.csv`.
 Note that this data is given at the cell level: simplifying the table to the sample level is a good opportunity to practice some data wrangling skills!
