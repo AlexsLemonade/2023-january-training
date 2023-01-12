@@ -21,6 +21,9 @@ Please use your full name in your profile, so we can find you easily and add you
 * We will use Slack to distribute your username and temporary password for the RStudio Server we will use during training. 
 Please follow [these instructions](../virtual-setup/rstudio-login.md) to log in to our RStudio server and change your password.
 
+Please contact us at {{site.email}} with any questions ahead of the workshop.
+Alternatively, you are welcome to post any questions you have in the private meeting channel on Slack once you have access.
+
 ## Logistics
 
 Please review the [Participant Information](participant_information.md) page for information about the workshop location (including nearby lodging), travel reimbursement, and health and safety.
