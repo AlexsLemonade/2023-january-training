@@ -13,10 +13,10 @@ nav_title: Schedule
 | 11:15 AM  | *Coffee break*                                                   |
 | 11:30 AM  | Introduction/Refresher to Single Cell Analysis with R, continued |
 | 12:30 PM  | *Lunch*                                                          |
-| 1:30 PM   | Identifying Cell Types With scRNA-seq Data                       |
+| 1:30 PM   | Identifying Cell Types with scRNA-seq Data                       |
 | 2:30 PM   | *Coffee break*                                                   |
-| 2:45 PM   | Identifying Cell Types With scRNA-seq Data, continued            |
-| 4:00 PM   | Exercise and question time                                       |
+| 2:45 PM   | Identifying Cell Types with scRNA-seq Data, continued            |
+| 4:00 PM   | Exercises and Questions                                          |
 | 5:00 PM   | *Adjourn for the day*                                            |
 |           |                                                                  |
 | **Day 2** | **2023-02-01**                                                   |
@@ -31,9 +31,9 @@ nav_title: Schedule
 |           |                                                                  |
 | **Day 3** | **2023-02-02**                                                   |
 | 9:00 AM   | Questions and Review                                             |
-| 9:30 AM   | Differential Expression Analysis With scRNA-seq                  |
+| 9:30 AM   | Differential Expression Analysis with scRNA-seq                  |
 | 11:00 AM  | *Coffee break*                                                   |
-| 11:15 AM  | Differential Expression Analysis With scRNA-seq, continued       |
+| 11:15 AM  | Differential Expression Analysis with scRNA-seq, continued       |
 | 12:30 PM  | *Lunch*                                                          |
 | 1:30 PM   | Exercises, Questions, and Independent Projects                   |
 | 3:00 PM   | Participant Presentations!                                       |
