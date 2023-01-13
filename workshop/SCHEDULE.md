@@ -9,9 +9,9 @@ nav_title: Schedule
 |------------------|------------------------------------------------------|
 | **Day 1** | **2023-01-31**                                                   |
 | 9:00 AM   | Welcome, Introductions and Getting Started                       |
-| 10:00 AM  | Introduction/Refresher to Single Cell Analysis with R            |
+| 10:00 AM  | Introduction/Refresher to Single Cell Analysis with R and Bioconductor           |
 | 11:15 AM  | *Coffee break*                                                   |
-| 11:30 AM  | Introduction/Refresher to Single Cell Analysis with R, continued |
+| 11:30 AM  | Introduction/Refresher to Single Cell Analysis, continued |
 | 12:30 PM  | *Lunch*                                                          |
 | 1:30 PM   | Identifying Cell Types with scRNA-seq Data                       |
 | 2:30 PM   | *Coffee break*                                                   |
@@ -33,7 +33,7 @@ nav_title: Schedule
 | 9:00 AM   | Questions and Review                                             |
 | 9:30 AM   | Differential Expression Analysis with scRNA-seq                  |
 | 11:00 AM  | *Coffee break*                                                   |
-| 11:15 AM  | Differential Expression Analysis with scRNA-seq, continued       |
+| 11:15 AM  | Differential Expression Analysis, continued       |
 | 12:30 PM  | *Lunch*                                                          |
 | 1:30 PM   | Exercises, Questions, and Independent Projects                   |
 | 3:00 PM   | Participant Presentations!                                       |
