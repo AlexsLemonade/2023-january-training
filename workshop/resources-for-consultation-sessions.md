@@ -1,8 +1,18 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+---
+title: Resources for Consultation Sessions
+nav_title: Resources
+---
 
-- [Module cheatsheets](#module-cheatsheets)
+Our consultation sessions are designed for you to spend your time as you would like with the support of your instructors.
+
+You can review instruction materials, work through exercise notebooks we provide, or analyze your own data.
+
+On this page, we've assembled some resources you may find helpful during these sessions. For more information about the structure of consultation sessions and how to get help, please review [the Consultation sessions section of the Workshop Structure page](workshop-structure.md#consultation-sessions).
+
+If you're working with your own data or practice data outside of instruction hours and encounter errors, please feel free to  
+
+**Table of contents**
+
 - [Working with your own data on RStudio Server](#working-with-your-own-data-on-rstudio-server)
 - [Obtaining practice datasets](#obtaining-practice-datasets)
   - [refine.bio](#refinebio)
@@ -18,37 +28,8 @@
   - [_Mus musculus_](#_mus-musculus_)
   - [_Danio rerio_](#_danio-rerio_)
   - [_Canis lupus familiaris_](#_canis-lupus-familiaris_)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
----
-title: Resources for Consultation Sessions
-nav_title: Resources
----
-
-Our consultation sessions are designed for you to spend your time as you would like with the support of your instructors.
-
-You can review instruction materials, work through exercise notebooks we provide, or analyze your own data.
-
-On this page, we've assembled some resources you may find helpful during these sessions. For more information about the structure of consultation sessions and how to get help, please review [the Consultation sessions section of the Workshop Structure page](workshop-structure.md#consultation-sessions).
-
-**Table of contents**
-
-- [Working with your own data on RStudio Server](#working-with-your-own-data-on-rstudio-server)
-- [Obtaining practice datasets](#obtaining-practice-datasets)
-  - [refine.bio](#refinebio)
-    - [Bulk RNA-seq data on refine.bio](#bulk-rna-seq-data-on-refinebio)
-  - [Single-cell RNA-seq data](#single-cell-rna-seq-data)
-    - [_Tabula Muris_ data](#tabula-muris-data)
-    - [Human Cell Atlas data](#human-cell-atlas-data)
-    - [Reading `loom` format data in R](#reading-loom-format-data-in-r)
-- [Transcriptome indices for common organisms](#transcriptome-indices-for-common-organisms)
-  - [_Homo sapiens_](#homo-sapiens)
-  - [_Mus musculus_](#mus-musculus)
-  - [_Danio rerio_](#danio-rerio)
-  - [_Canis lupus familiaris_](#canis-lupus-familiaris)
-
-
+ 
+ 
 ## Working with your own data on RStudio Server
 
 If you plan on working with your own data during consultations, you may find it helpful to leverage our RStudio Server.
