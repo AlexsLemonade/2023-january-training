@@ -4,12 +4,10 @@ nav_title: Resources
 ---
 
 Our consultation sessions are designed for you to spend your time as you would like with the support of your instructors.
-
 You can review instruction materials, work through exercise notebooks we provide, or analyze your own data.
+On this page, we've assembled some resources you may find helpful during these sessions. 
 
-On this page, we've assembled some resources you may find helpful during these sessions. For more information about the structure of consultation sessions and how to get help, please review [the Consultation sessions section of the Workshop Structure page](workshop-structure.md#consultation-sessions).
-
-If you're working with your own data or practice data outside of instruction hours and encounter errors, please feel free to  
+If you're working with your own data or practice data outside of instruction hours and encounter errors, please feel free to post them in the training-specific Slack channel for your instructors to review at the next session (please see [these guidelines](posting-errors-guidelines.md) for tips on posting errors to Slack).
 
 **Table of contents**
 
