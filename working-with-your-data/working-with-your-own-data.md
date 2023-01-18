@@ -17,7 +17,8 @@ This guide will take you through how to get your data onto our RStudio server so
 - You will have access to our RStudio Server for 6 months.
 We will email you with a reminder 6 months from now so you can make sure to remove any files from our RStudio Server that you may find useful before your access is revoked and the files are deleted.
 
-- As always, please Slack one of the CCDL team members if you need help with anything (that is what we are here for!).
+- As always, please reach out to one of the CCDL team members if you need help with anything (that is what we are here for!).
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -41,6 +42,7 @@ We will email you with a reminder 6 months from now so you can make sure to remo
     - [install.packages()](#installpackages)
     - [Bioconductor packages](#bioconductor-packages)
   - [More resources on package installation strategies](#more-resources-on-package-installation-strategies)
+- [Posting errors to Slack](#posting-errors-to-slack)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -439,3 +441,9 @@ Or if it failed to install, it will give you a `non-zero exit status` message.
 - [Stack Overflow: Non-zero exit status](https://stackoverflow.com/questions/35666638/cant-access-user-library-in-r-non-zero-exit-status-warning)
 - [Installing R packages](https://www.r-bloggers.com/installing-r-packages/)
 - [Installing GitHub R Packages](https://cran.r-project.org/web/packages/githubinstall/vignettes/githubinstall.html)
+
+
+## Posting errors to Slack
+
+If you are working with your own data outside of instruction hours or after the workshop and encounter errors, we encourage you to use the training-specific private Slack channel to ask for help.
+Please review the tips in [our guidelines for posting errors to Slack](posting-errors-guidelines.md).
