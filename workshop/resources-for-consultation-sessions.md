@@ -34,7 +34,6 @@ On this page, we've assembled some resources you may find helpful during these s
 
 **Table of contents**
 
-- [Module cheatsheets](#module-cheatsheets)
 - [Working with your own data on RStudio Server](#working-with-your-own-data-on-rstudio-server)
 - [Obtaining practice datasets](#obtaining-practice-datasets)
   - [refine.bio](#refinebio)
@@ -49,14 +48,6 @@ On this page, we've assembled some resources you may find helpful during these s
   - [_Danio rerio_](#danio-rerio)
   - [_Canis lupus familiaris_](#canis-lupus-familiaris)
 
-## Module cheatsheets
-
-The [`modules-cheatsheets` directory](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/module-cheatsheets) of our [GitHub repository of training materials](https://github.com/AlexsLemonade/training-modules) contains Markdown and PDF version of "cheatsheets" that contain tables with short descriptions of functions used throughout training modules and links to documentation.
-
-* Introduction to R/Tidyverse cheatsheet ([View Markdown](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/module-cheatsheets/intro-to-R-tidyverse-cheatsheet.md), [Download PDF](https://github.com/AlexsLemonade/training-modules/raw/{{site.release_tag}}/module-cheatsheets/intro-to-R-tidyverse-cheatsheet.pdf))
-* RNA-seq module cheatsheet ([View Markdown](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/module-cheatsheets/RNA-seq-cheatsheet.md), [Download PDF](https://github.com/AlexsLemonade/training-modules/raw/{{site.release_tag}}/module-cheatsheets/RNA-seq-cheatsheet.pdf))
-
-You may find these helpful as you review instruction material or work through exercise notebooks.
 
 ## Working with your own data on RStudio Server
 
