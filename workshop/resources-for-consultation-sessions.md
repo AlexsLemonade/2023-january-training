@@ -1,8 +1,18 @@
+---
+title: Resources for Consultation Sessions
+nav_title: Resources
+---
+
+Our consultation sessions are designed for you to spend your time as you would like with the support of your instructors.
+You can review instruction materials, work through exercise notebooks we provide, or analyze your own data.
+On this page, we've assembled some resources you may find helpful during these sessions. 
+
+If you're working with your own data or practice data outside of instruction hours and encounter errors, please feel free to post them in the training-specific Slack channel for your instructors to review at the next session (please see [these guidelines](posting-errors-guidelines.md) for tips on posting errors to Slack).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Module cheatsheets](#module-cheatsheets)
+**Table of contents**
+
 - [Working with your own data on RStudio Server](#working-with-your-own-data-on-rstudio-server)
 - [Obtaining practice datasets](#obtaining-practice-datasets)
   - [refine.bio](#refinebio)
@@ -18,46 +28,9 @@
   - [_Mus musculus_](#_mus-musculus_)
   - [_Danio rerio_](#_danio-rerio_)
   - [_Canis lupus familiaris_](#_canis-lupus-familiaris_)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
----
-title: Resources for Consultation Sessions
-nav_title: Resources
----
-
-Our consultation sessions are designed for you to spend your time as you would like with the support of your instructors.
-
-You can review instruction materials, work through exercise notebooks we provide, or analyze your own data.
-
-On this page, we've assembled some resources you may find helpful during these sessions. For more information about the structure of consultation sessions and how to get help, please review [the Consultation sessions section of the Workshop Structure page](workshop-structure.md#consultation-sessions).
-
-**Table of contents**
-
-- [Module cheatsheets](#module-cheatsheets)
-- [Working with your own data on RStudio Server](#working-with-your-own-data-on-rstudio-server)
-- [Obtaining practice datasets](#obtaining-practice-datasets)
-  - [refine.bio](#refinebio)
-    - [Bulk RNA-seq data on refine.bio](#bulk-rna-seq-data-on-refinebio)
-  - [Single-cell RNA-seq data](#single-cell-rna-seq-data)
-    - [_Tabula Muris_ data](#tabula-muris-data)
-    - [Human Cell Atlas data](#human-cell-atlas-data)
-    - [Reading `loom` format data in R](#reading-loom-format-data-in-r)
-- [Transcriptome indices for common organisms](#transcriptome-indices-for-common-organisms)
-  - [_Homo sapiens_](#homo-sapiens)
-  - [_Mus musculus_](#mus-musculus)
-  - [_Danio rerio_](#danio-rerio)
-  - [_Canis lupus familiaris_](#canis-lupus-familiaris)
-
-## Module cheatsheets
-
-The [`modules-cheatsheets` directory](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/module-cheatsheets) of our [GitHub repository of training materials](https://github.com/AlexsLemonade/training-modules) contains Markdown and PDF version of "cheatsheets" that contain tables with short descriptions of functions used throughout training modules and links to documentation.
-
-* Introduction to R/Tidyverse cheatsheet ([View Markdown](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/module-cheatsheets/intro-to-R-tidyverse-cheatsheet.md), [Download PDF](https://github.com/AlexsLemonade/training-modules/raw/{{site.release_tag}}/module-cheatsheets/intro-to-R-tidyverse-cheatsheet.pdf))
-* RNA-seq module cheatsheet ([View Markdown](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/module-cheatsheets/RNA-seq-cheatsheet.md), [Download PDF](https://github.com/AlexsLemonade/training-modules/raw/{{site.release_tag}}/module-cheatsheets/RNA-seq-cheatsheet.pdf))
-
-You may find these helpful as you review instruction material or work through exercise notebooks.
-
+  
+ <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+ 
 ## Working with your own data on RStudio Server
 
 If you plan on working with your own data during consultations, you may find it helpful to leverage our RStudio Server.

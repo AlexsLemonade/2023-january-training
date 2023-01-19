@@ -18,6 +18,7 @@ Dates: {{site.start_date}} through {{site.end_date}}
 * Please review the [Code of Conduct](../code-of-conduct.md).
 * Sign up for the **Cancer Data Science** Slack workspace at <http://ccdatalab.org/slack> (Slack installation instructions for [Mac](../virtual-setup/mac-instructions.md), [Windows](../virtual-setup/windows-instructions.md), and [Linux](../virtual-setup/linux-instructions.md)). 
 Please use your full name in your profile, so we can find you easily and add you to the private meeting channel.
+You can find more information about how we'll use Slack [here](../virtual-setup/slack-procedures.md).
 * We will use Slack to distribute your username and temporary password for the RStudio Server we will use during training. 
 Please follow [these instructions](../virtual-setup/rstudio-login.md) to log in to our RStudio server and change your password.
 
