@@ -8,6 +8,8 @@ You can review instruction materials, work through exercise notebooks we provide
 On this page, we've assembled some resources you may find helpful during these sessions. 
 
 If you're working with your own data or practice data outside of instruction hours and encounter errors, please feel free to post them in the training-specific Slack channel for your instructors to review at the next session (please see [these guidelines](posting-errors-guidelines.md) for tips on posting errors to Slack).
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 **Table of contents**
 
@@ -26,7 +28,8 @@ If you're working with your own data or practice data outside of instruction hou
   - [_Mus musculus_](#_mus-musculus_)
   - [_Danio rerio_](#_danio-rerio_)
   - [_Canis lupus familiaris_](#_canis-lupus-familiaris_)
- 
+  
+ <!-- END doctoc generated TOC please keep comment here to allow auto update -->
  
 ## Working with your own data on RStudio Server
 
