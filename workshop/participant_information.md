@@ -54,8 +54,8 @@ The following hotels are within 1 mile of the workshop location.
 
 ## Travel Reimbursement
 
-Travel reimbursement up to $500 is available for participants who must travel over 50 miles to attend the workshop. 
-If you will be requesting travel reimbursement, you will receive a reimbursement form after the workshop ends. 
+Travel reimbursement up to $500 is available for participants who reside more than 50 miles from the workshop location. 
+If you requested travel reimbursement, you will receive a reimbursement form after the workshop ends. 
 Payments are typically processed within a few weeks. 
 You are responsible for making your own travel and lodging arrangements. 
 If you require travel reimbursement of more than $500 to attend, please email training@ccdatalab.org. 
