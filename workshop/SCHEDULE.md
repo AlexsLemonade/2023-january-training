@@ -27,7 +27,7 @@ nav_title: Schedule
 | 12:30 PM  | *Lunch*                                                          |
 | 1:30 PM   | Exercises, Questions, and Independent Projects                   |
 | 4:00 PM   | *Adjourn for the day*                                            |
-| 6:30 PM   | Workshop dinner: <p> [Manayunk Brewing Co.](https://goo.gl/maps/cFChwoEpLJ4Lxun29) <br> 4120 Main St <br> Philadelphia, PA 19127                                          |
+| 6:30 PM   | Workshop dinner: <br> [Manayunk Brewing Co.](https://goo.gl/maps/cFChwoEpLJ4Lxun29) <br> 4120 Main St <br> Philadelphia, PA 19127                                          |
 |           |                                                                  |
 | **Day 3** | **2023-02-02**                                                   |
 | 9:00 AM   | Questions and Review                                             |
