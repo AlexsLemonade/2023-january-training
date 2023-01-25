@@ -31,7 +31,7 @@ nav_title: Schedule
 |           |                                                                  |
 | **Day 3** | **2023-02-02**                                                   |
 | 9:00 AM   | Questions and Review                                             |
-| 9:30 AM   | Differential Expression Analysis with scRNA-seq                  |
+| 9:30 AM   | Differential Expression Analysis with scRNA-seq <br> [Differential expression analysis slides (PDF)](../slides/2023-02-02_Differential_expression.pdf)                 |
 | 11:00 AM  | *Coffee break*                                                   |
 | 11:15 AM  | Differential Expression Analysis, continued       |
 | 12:30 PM  | *Lunch*                                                          |
