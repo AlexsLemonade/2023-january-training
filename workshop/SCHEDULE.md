@@ -21,7 +21,7 @@ nav_title: Schedule
 |           |                                                                  |
 | **Day 2** | **2023-02-01**                                                   |
 | 9:00 AM   | Questions and Review                                             |
-| 9:30 AM   | Integrating scRNA-seq Experiments                                |
+| 9:30 AM   | Integrating scRNA-seq Experiments <br> [Integrating scRNA-seq Experiments slides (PDF)](../slides/2023-02-01_Integration.pdf)                                |
 | 11:00 AM  | *Coffee break*                                                   |
 | 11:15 AM  | Integrating scRNA-seq Experiments, continued                     |
 | 12:30 PM  | *Lunch*                                                          |
