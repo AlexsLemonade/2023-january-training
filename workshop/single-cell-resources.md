@@ -8,7 +8,9 @@ Please note, this is not an exhaustive list.
 It includes multiple types of resources for various topics in single-cell RNA-seq analysis, but does not represent the complete breadth of analysis topics.
 Resources are listed by topic and in alphabetical order, not in order of recommendation.
 
-**Table of contents**
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [General Single-cell resources](#general-single-cell-resources)
 - [Alignment and quantification of gene expression](#alignment-and-quantification-of-gene-expression)
@@ -19,6 +21,8 @@ Resources are listed by topic and in alphabetical order, not in order of recomme
 - [Integrating scRNA-seq samples](#integrating-scrna-seq-samples)
 - [Differential expression analysis](#differential-expression-analysis)
 - [Differential abundance](#differential-abundance)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## General Single-cell resources
 
