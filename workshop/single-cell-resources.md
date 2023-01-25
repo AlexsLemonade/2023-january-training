@@ -53,14 +53,13 @@ Resources are listed by topic and in alphabetical order, not in order of recomme
 
 - [AUCell: Identifying cells with active gene sets](https://bioconductor.org/packages/devel/bioc/vignettes/AUCell/inst/doc/AUCell.html)
 - [Azimuth](https://azimuth.hubmapconsortium.org/)
-- [Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data - _Nature Communications_](https://doi.org/10.1038/s41467-022-28803-w)
 - [OSCA chapter on cell type annotation](https://bioconductor.org/books/3.16/OSCA.basic/cell-type-annotation.html)
-- [scType](http://session.asuscomm.com/)
+- [scType](http://sctype.app)
 - [The SingleR Book - Bioconductor](https://bioconductor.org/books/3.16/SingleRBook/)
 
 ## CITE-seq
 
-- [OSCA chapter on integration with protein abundance](http://bioconductor.org/books/3.16/OSCA.advanced/integrating-with-protein-abundance.html)
+- [OSCA chapter on integrating with protein abundance](http://bioconductor.org/books/3.16/OSCA.advanced/integrating-with-protein-abundance.html)
 - [Simultaneous epitope and transcriptome measurement in single cells - _Nature Methods_](https://doi.org/10.1038/nmeth.4380)
 
 ## Integrating scRNA-seq samples
