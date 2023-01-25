@@ -75,9 +75,13 @@ Resources are listed by topic and in alphabetical order, not in order of recomme
 ## Differential expression analysis
 
 - [Batch effects and the effective design of single-cell gene expression studies - Tung _et al._ (2017)](https://doi.org/10.1038/srep39921)
+- [Differential gene expression analyses in scRNA-seq data between conditions with biological replicates - 10X Genomics](https://www.10xgenomics.com/resources/analysis-guides/differential-gene-expression-analysis-in-scrna-seq-data-between-conditions-with-biological-replicates)
 - [Harvard-Chan Bioinformatics Core tutorial on differential expression analysis with DESeq2](https://hbctraining.github.io/scRNA-seq/lessons/pseudobulk_DESeq2_scrnaseq.html)
 - [OSCA chapter on DE analyses between conditions](http://bioconductor.org/books/3.16/OSCA.multisample/multi-sample-comparisons.html)
 
 ## Differential abundance
 
+- [Cell type composition analysis: comparison of statistical methods - Simmons (2022)](https://doi.org/10.1101/2022.02.04.479123)
 - [OSCA chapter on changes in cluster abundance](http://bioconductor.org/books/3.16/OSCA.multisample/differential-abundance.html)
+- [scCODA is a Bayesian model for compositional single-cell data analysis - Buttner _et al._ (2021)](https://doi.org/10.1038/s41467-021-27150-6)
+- [scDC: single cell differential composition analysis - Cao _et al._ (2019)](https://doi.org/10.1186/s12859-019-3211-9)
