@@ -9,7 +9,7 @@ nav_title: Schedule
 |------------------|------------------------------------------------------|
 | **Day 1** | **2023-01-31**                                                   |
 | 9:00 AM   | Welcome, Introductions and Getting Started   <br> [Workshop Introduction slides (PDF)](../slides/2023-01-31_a_Workshop_Intro.pdf)  |
-| 10:00 AM  | Introduction/Refresher to Single-cell Analysis with R and Bioconductor  <br> [Single-cell with R slides (PDF)](../slides/2023-01-31_b_scRNAseq_intro.pdf)    |
+| 10:00 AM  | Introduction/Refresher to Single-cell Analysis with R and Bioconductor  <br> [Single-cell Analysis with R slides (PDF)](../slides/2023-01-31_b_scRNAseq_intro.pdf)    |
 | 11:15 AM  | *Coffee break*                                                   |
 | 11:30 AM  | Introduction/Refresher to Single-cell Analysis, continued |
 | 12:30 PM  | *Lunch*                                                          |
