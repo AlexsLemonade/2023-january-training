@@ -13,8 +13,8 @@ end_date: 2023-02-02
 release_tag: master
 # The Docker user will almost always be ccdl, which is why this is here
 docker_user: ccdl
-docker_repo: DOCKER-REPOSITORY
-docker_tag: DOCKER-TAG
+docker_repo: training_rnaseq
+docker_tag: 2023-january
 
 # Theme and theme options
 theme: minima
