@@ -25,7 +25,7 @@ The planned schedule for the Jan 31-Feb 2, 2023 Data Lab Training Workshop appea
 | 11:00 AM  | *Coffee break*                                                   |
 | 11:15 AM  | Integrating scRNA-seq Experiments, continued                     |
 | 12:30 PM  | *Lunch*                                                          |
-| 1:30 PM   | Exercises, Questions, and Independent Projects  <br> [Exercise: Integration](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_03-integration.Rmd)|
+| 1:30 PM   | Exercises, Questions, and Independent Projects  <br> [Exercise: Integration](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_03-integration.Rmd) <br> [Resources](resources-for-consultation-sessions.md)|
 | 4:00 PM   | *Adjourn for the day*                                            |
 | 6:30 PM   | Workshop dinner: [Manayunk Brewing Co.](https://goo.gl/maps/cFChwoEpLJ4Lxun29) <br> 4120 Main St <br> Philadelphia, PA 19127                                          |
 |           |                                                                  |
@@ -35,6 +35,6 @@ The planned schedule for the Jan 31-Feb 2, 2023 Data Lab Training Workshop appea
 | 11:00 AM  | *Coffee break*                                                   |
 | 11:15 AM  | Differential Expression Analysis, continued       |
 | 12:30 PM  | *Lunch*                                                          |
-| 1:30 PM   | Exercises, Questions, and Independent Projects  <br> [Exercise: Differential Expression](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_04-diffexp.Rmd)            |
+| 1:30 PM   | Exercises, Questions, and Independent Projects  <br> [Exercise: Differential Expression](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_04-diffexp.Rmd) <br> [Resources](resources-for-consultation-sessions.md)       |
 | 3:00 PM   | Participant Presentations!                                       |
 | 4:00 PM   | *Adjourn*                                                        |
